@@ -7,17 +7,22 @@
 #include "BinarySearchTree.h"
 using namespace std;
 int main(int argc, char** argv) {
-    /*string data;  //testes data
+    /*string data; //testes data
     string data1("09/03/2002");
     string data2("10/03/2002");
+    
     string teste = data1.substr(0,2);
     int teste1 = stoi(teste);
     cout<<teste1<<endl;
+        
+	
     if(data1<data2)
         cout<<"deu certo"<<endl;
     else
         cout<<"deu errado"<<endl;
     cout<<data1<<" "<<data2<<endl;
+    
+    
     getline(cin,data);
     try{
         Datas teste = Datas(data);
