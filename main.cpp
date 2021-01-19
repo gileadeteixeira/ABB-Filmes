@@ -7,7 +7,7 @@
 #include "BinarySearchTree.h"
 using namespace std;
 int main(int argc, char** argv) {
-    /*string data;
+    /*string data; //testes data.
     string data1("09/03/2002");
     string data2("10/03/2002");
     string teste = data1.substr(0,2);
@@ -25,12 +25,12 @@ int main(int argc, char** argv) {
     }
     catch(const char *exceçao){
         cout<<exceçao<<endl;
-    }*/ //testes data.
+    }*/
     int inicio, aplicacao, encontrar, registrar, remover, ordem, outraOrdem;
     string nome, data;
     Datas estreia;
     BinarySearchTree<Filmes> ABBFilmes = BinarySearchTree<Filmes>();
-    cout<<"AVISO: TALVEZ SEJA NECESSARIO ROLAR A TELA DE EXECUCAO APOS SOLICITAR UMA OPERACAO!"<<endl;
+    /*cout<<"AVISO: TALVEZ SEJA NECESSARIO ROLAR A TELA DE EXECUCAO APOS SOLICITAR UMA OPERACAO!"<<endl; //Aviso para mostrar apenas no Netbeans*/
     cout<<"CASO PREZE PELA ESTETICA, FAVOR DIFERENCIAR LETRAS MAIUSCULAS E MINUSCULAS AO INSERIR DADOS"<<endl;
     //system("pause");
     //system("cls");
