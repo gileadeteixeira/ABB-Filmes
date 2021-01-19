@@ -7,7 +7,7 @@
 #include "BinarySearchTree.h"
 using namespace std;
 int main(int argc, char** argv) {
-    /*string data; //testes data.
+    /*string data; //testes data
     string data1("09/03/2002");
     string data2("10/03/2002");
     string teste = data1.substr(0,2);
