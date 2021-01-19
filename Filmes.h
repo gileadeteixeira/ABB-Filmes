@@ -14,8 +14,8 @@ class Filmes{
             m_nome = "nao-definido";
         }
         Filmes(string nomeFilme, Datas dataEstreia){
-            m_nome=nomeFilme;
-            m_estreia=dataEstreia;
+            m_nome = nomeFilme;
+            m_estreia = dataEstreia;
         }
 	void setNome(string nomeFilme){
             m_nome=nomeFilme;
