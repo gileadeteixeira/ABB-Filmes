@@ -4,7 +4,7 @@
 #include <iostream>
 #include <string> //Estratégias Utilizadas: https://www.youtube.com/watch?v=Vt6FIzLffaI ; https://www.youtube.com/watch?v=EX0yK9YwIGk ; https://www.youtube.com/watch?v=cPE8ogJ9f7g
 using namespace std;
-class Datas{//IDEIA: Usar uma Data como parametro de comparação
+class Datas{//IDEIA: Usar uma Data como parametro de comparação.
     private:
         string m_data;
     public:
