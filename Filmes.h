@@ -34,8 +34,8 @@ class Filmes{
         }
 	friend bool operator == (Filmes filme1, Filmes filme2){
             return(
-                (filme1.m_nome==filme2.m_estreia)&&
-                (filme1.m_estreia.getAno()==filme2.m_estreia.getAno())
+                (filme1.m_nome == filme2.m_estreia)&&
+                (filme1.m_estreia.getAno() == filme2.m_estreia.getAno())
             );
 	}
         friend bool operator < (Filmes filme1, Filmes filme2){
