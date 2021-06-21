@@ -1,5 +1,16 @@
 # ABB-Filmes
-* Projeto acadêmico desenvolvido em C ++, utilizando a IDE Netbeans 8.2.
-* Este projeto visa explorar e aplicar os conceitos de Estrutura de Dados e Programação Orientada a Objetos.
-* As classes "BinaryNode.h" e "BinarySearchTree.h" já fazem parte do C++, mas a construção manual das duas visa fixar o aprendizado.
-* "main.cpp", "Datas.h" and "Filmes.h" são os arquivos mais importantes neste projeto.
+
+**Projeto acadêmico desenvolvido em C++, utilizando a IDE Netbeans 8.2.**
+
+Teste [online](https://onlinegdb.com/TKwMqi_eq)!
+
+![image](https://user-images.githubusercontent.com/77688036/122712433-499e9d80-d23a-11eb-9115-dec063073d64.png)
+
+<strong>Ideia:</strong> Árvore de Busca Binária sobre filmes. Funcionamento:
+  - O sistema inicia carregando alguns dados para a àrvore;
+  - A partir daí é executado um loop, com opções intuitivas para o usuário escolher.
+
+## Conceitos 
+  - Estrutura de Dados;
+  - Árvore de Busca Binária;
+  - Programação Orientada a Objetos com C++.
